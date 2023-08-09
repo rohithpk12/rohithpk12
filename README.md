@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rohith Padiyatharakunjappan</h1>
-<h3 align="center">A passionate data engineer aspirant from India</h3>
+<h1 align="center">Hey there 👋, I'm Rohith Padiyatharakunjappan</h1>
+<h3 align="center">A passionate data engineer aspirant from India who wants to fit in this tech world</h3>
 
-- 🔭 I’m currently working on **Research on data visualization**
+- 🔭 I’m currently working on **Research on Data Acquisition, Fusion, and Visualization**
 
 - 🌱 I’m currently learning **AI, prompt engineering, data engineering**
 
 - 📫 How to reach me **padiyatharar1@gmail.com**
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
