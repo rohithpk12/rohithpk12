@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Rohith Padiyatharakunjappan</h1>
-<h3 align="center">"Passionate Data Engineer and Analyst 🚀 | Transforming raw data into meaningful insights | Building robust data pipelines | Enthusiastic about optimizing data processes for smarter decisions | Let's decode data together! 📊🔧 #DataEngineering #DataAnalysis #Datascience"</h3>
+<h3 align="center">"Passionate computer science student 🚀 | Transforming raw data into meaningful insights | Building robust data pipelines | Enthusiastic about optimizing data processes for smarter decisions | Let's decode data together! 📊🔧 #DataEngineering #DataAnalysis #Datascience"</h3>
 
 - 🔭 I’m currently working on **Researching Data Acquisition, Fusion, and Visualization**
 
