@@ -18,10 +18,9 @@ I build **production-minded AI systems**—LLM workflows that retrieve the right
 
 ## 🎓 Education
 
-- **Doctor of Business Administration (DBA), Data Science** — Belhaven University *(2026–Present)*
-  Research focus: AI decision support, responsible LLM systems, and applied analytics.
-- **M.S. Business Analytics** — Northern Arizona University *(May 2025, GPA 3.8)*
-- **B.Tech, Electrical & Electronics Engineering** — GRIET, Hyderabad *(2020, CGPA 8.6)*
+- **Doctor of Business Administration (DBA)** — *2026–Present*
+- **M.S. Computer Science, Data Science Specialization** — *2023–2025*
+- **B.Tech, Computer Science** — *2016–2020*
 
 ## 🚧 Now Building
 
