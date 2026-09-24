@@ -19,7 +19,7 @@ I build **production-minded AI systems**—LLM workflows that retrieve the right
 ## 🎓 Education
 
 - **Doctor of Business Administration (DBA)** — *2026–Present*
-- **M.S. Computer Science, Data Science Specialization** — *2023–2025*
+- **M.S. Computer Science, Data Science Specialization** — *2022–2024*
 - **B.Tech, Computer Science** — *2016–2020*
 
 ## 🚧 Now Building
