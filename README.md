@@ -16,6 +16,13 @@ I build **production-minded AI systems**—LLM workflows that retrieve the right
 
 > *Useful AI is not only about the model—it is about the system around it.*
 
+## 🎓 Education
+
+- **Doctor of Business Administration (DBA), Data Science** — Belhaven University *(2026–Present)*
+  Research focus: AI decision support, responsible LLM systems, and applied analytics.
+- **M.S. Business Analytics** — Northern Arizona University *(May 2025, GPA 3.8)*
+- **B.Tech, Electrical & Electronics Engineering** — GRIET, Hyderabad *(2020, CGPA 8.6)*
+
 ## 🚧 Now Building
 
 - **🔎 Retrieval Intelligence** — grounded answers with embeddings, vector search, evaluations, and traceable sources.
@@ -58,6 +65,13 @@ Event-driven healthcare pipeline for near-real-time record processing and anomal
 ### 🌐 Portfolio Platform
 A modern portfolio showcasing work across applied AI, data engineering, and cloud systems.  
 `Next.js` `TypeScript` `React` · [View repository →](https://github.com/rohithpk12/pk-portfolio)
+
+### 🧪 Applied AI Lab *(in progress)*
+Building small, public, production-style prototypes—not tutorial clones:
+
+- **Multimodal Document Intelligence** — extract, cite, and validate information from unstructured documents using RAG and structured outputs.
+- **Streaming Anomaly Command Center** — detect and explain unusual events from Kafka streams with an analyst-ready dashboard.
+- **LLM Evaluation Harness** — measure answer groundedness, retrieval quality, latency, and cost before release.
 
 ## 📊 GitHub Dashboard
 
