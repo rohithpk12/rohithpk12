@@ -1,19 +1,79 @@
-<h1 align="center">Hey there 👋, I'm Rohith Padiyatharakunjappan</h1>
-<h3 align="center">"Passionate computer science student 🚀 | Transforming raw data into meaningful insights | Building robust data pipelines | Enthusiastic about optimizing data processes for smarter decisions | Let's decode data together! 📊🔧 #DataEngineering #DataAnalysis #Datascience"</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Researching Data Acquisition, Fusion, and Visualization**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3400&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Rohith+Kunjappan+%E2%80%94+AI+%2F+ML+Engineer;Building+LLM%2C+RAG+%26+Agentic+AI+Systems;From+Real-Time+Data+to+Production+Decisions" alt="Animated introduction" />
 
-- 🌱 I’m currently learning **AI, prompt engineering, data engineering**
+<a href="https://rohithpk.com/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rohithpk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Padiyatharar10@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 📫 How to reach me **padiyatharar1@gmail.com**
+</div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohith pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohith pk" height="30" width="40" /></a>
-</p>
+## 👋 Hello, I’m Rohith
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I build **production-minded AI systems**—LLM workflows that retrieve the right context, reason safely, and turn it into useful action. I bring together ML, streaming data, and backend engineering to take ideas beyond a model notebook and into dependable products.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithpk12&show_icons=true&locale=en&layout=compact" alt="rohithpk12" /></p>
+> *Useful AI is not only about the model—it is about the system around it.*
+
+## 🚧 Now Building
+
+- **🔎 Retrieval Intelligence** — grounded answers with embeddings, vector search, evaluations, and traceable sources.
+- **🕸️ Agent Workflows** — tool-using LLM agents with LangGraph, MCP, structured outputs, and guardrails.
+- **🛡️ Risk Automation** — real-time fraud scoring and analyst support with explainable triage.
+
+## 🧰 Engineering Toolkit
+
+<div align="center">
+
+**Languages & APIs**  
+<img src="https://skillicons.dev/icons?i=python,java,typescript,sql,fastapi,spring&theme=dark" alt="Languages and APIs" />
+
+**AI, Data & MLOps**  
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=semantic-scholar&logoColor=7DD3FC" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+
+**Cloud & Platform**  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,github,linux&theme=dark" alt="Cloud and platform" />
+
+</div>
+
+## ✨ Featured Work
+
+### 🛡️ Fraud & Risk Intelligence
+Real-time fraud scoring built around transaction velocity, device, location, and failed-login signals—helping analysts focus their review where it matters.  
+`Python` `XGBoost` `FastAPI` `SQL` `AWS` · [Explore on my portfolio →](https://rohithpk.com/)
+
+### 🤖 LLM Case-Triage Workflow
+RAG-powered analyst support that retrieves relevant evidence, summarizes key context, and produces structured, review-ready outputs.  
+`LangChain` `LangGraph` `MCP` `Vector Search` `Docker` · [Explore on my portfolio →](https://rohithpk.com/)
+
+### ⚡ Healthcare Streaming Platform
+Event-driven healthcare pipeline for near-real-time record processing and anomaly detection.  
+`Kafka` `Spark Structured Streaming` `PySpark` `MLflow`
+
+### 🌐 Portfolio Platform
+A modern portfolio showcasing work across applied AI, data engineering, and cloud systems.  
+`Next.js` `TypeScript` `React` · [View repository →](https://github.com/rohithpk12/pk-portfolio)
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+<a href="https://github.com/rohithpk12"><img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithpk12&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" /></a>
+<a href="https://github.com/rohithpk12"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithpk12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></a>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithpk12&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</div>
+
+---
+
+<div align="center">
+
+### Open to building thoughtful AI products and data systems.
+
+[Portfolio](https://rohithpk.com/) · [LinkedIn](https://www.linkedin.com/in/rohithpk/) · [Email](mailto:Padiyatharar10@gmail.com)
+
+</div>
