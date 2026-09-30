@@ -20,7 +20,7 @@ I build **production-minded AI systems** that bring together LLM workflows, mach
 
 ### 🤖 Generative AI & Agents
 
-<p><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" /> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-155E75?style=for-the-badge" /> <img alt="RAG" src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" /> <img alt="MCP" src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" /></p>
+<p><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" /> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-155E75?style=for-the-badge" /> <img alt="RAG" src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" /> <img alt="MCP" src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" /> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></p>
 
 LLM workflows · Vector Search · Prompt Engineering · Agentic AI
 
@@ -37,6 +37,10 @@ LLM workflows · Vector Search · Prompt Engineering · Agentic AI
 <p><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" /> <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" /></p>
 
 REST APIs · Backend Services · Containerized Applications
+
+### 🛠️ Development Tools
+
+<p><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
 
 ## 🚀 What I’m Building
 
