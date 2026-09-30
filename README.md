@@ -18,11 +18,15 @@ I build **production-minded AI systems** that bring together LLM workflows, mach
 
 ## 🏅 Certifications & Learning
 
-### Cloud Certification
+### Cloud & AI Certifications
 
 <p><img alt="AWS Certified Developer - Associate" src="https://img.shields.io/badge/AWS%20Certified%20Developer%20--%20Associate-FF9900?style=for-the-badge" /></p>
 
 **AWS Certified Developer – Associate (DVA-C02)** · Earned June 19, 2024
+
+<p><img alt="Claude Certified Architect - Foundations (CCA-F)" src="https://img.shields.io/badge/Claude%20Certified%20Architect%20--%20Foundations-D97757?style=for-the-badge" /></p>
+
+**Claude Certified Architect – Foundations (CCA-F)**
 
 ### Completed Courses
 
