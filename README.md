@@ -16,6 +16,30 @@ I build **production-minded AI systems** that bring together LLM workflows, mach
 - **Master of Science in Computer Science** — Data Science specialization · **2022–2024**
 - **B.Tech in Computer Science**
 
+## 🏅 Certifications & Learning
+
+### Cloud Certification
+
+<p><img alt="AWS Certified Developer - Associate" src="https://img.shields.io/badge/AWS%20Certified%20Developer%20--%20Associate-FF9900?style=for-the-badge" /></p>
+
+**AWS Certified Developer – Associate (DVA-C02)** · Earned June 19, 2024
+
+### Completed Courses
+
+<p><a href="https://coursera.org/verify/FWLQVBFKDQTB"><img alt="Google | Data Visualization" src="https://img.shields.io/badge/Google%20%7C%20Data%20Visualization-4285F4?style=for-the-badge" /></a> <a href="https://coursera.org/verify/3WGRUXCFV2FG"><img alt="IBM | Data Analytics" src="https://img.shields.io/badge/IBM%20%7C%20Data%20Analytics-052FAD?style=for-the-badge" /></a> <a href="https://ude.my/UC-3a61d2d4-7803-4ee6-b8ad-cb73ae2bb468"><img alt="Udemy | SQL Bootcamp" src="https://img.shields.io/badge/Udemy%20%7C%20SQL%20Bootcamp-A435F0?style=for-the-badge" /></a></p>
+
+- **Google · Share Data Through the Art of Visualization** — Coursera · September 25, 2023
+- **IBM · Introduction to Data Analytics** — Coursera · August 7, 2023
+- **The Complete SQL Bootcamp: Go from Zero to Hero** — Udemy, Jose Portilla · July 27, 2023
+
+<details>
+<summary>Past credentials & research training</summary>
+
+- **[Databricks Academy Accreditation – Generative AI Fundamentals](https://credentials.databricks.com/76335f8c-7fcb-417e-a5c9-c894f82cc802)** — Issued August 27, 2024; expired August 27, 2026.
+- **CITI Program · HSR – Students / Faculty Basic course** — Completed January 25, 2023; expired January 25, 2026.
+
+</details>
+
 ## ⚡ Tech Stack & Engineering
 
 ### 🤖 Generative AI & Agents
